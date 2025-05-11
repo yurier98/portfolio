@@ -63,8 +63,6 @@ jobs:
         env:
           NUXT_CONTENT_PREVIEW_API: https://api.nuxt.studio
           NUXT_UI_PRO_LICENSE: ${{ secrets.NUXT_UI_PRO_LICENSE }}
-          NUXT_PUBLIC_VAR: ${{ vars.NUXT_PUBLIC_VAR }}
-          
 
       # Deployment job
       - name: Deploy 🚀
