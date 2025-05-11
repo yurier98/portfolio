@@ -9,12 +9,14 @@ export default defineAppConfig({
     email: 'yurierjesus@gamil.com',
     available: true
   },
+
   ui: {
     colors: {
       primary: 'blue',
       neutral: 'neutral'
     }
   },
+
   uiPro: {
     pageHero: {
       slots: {
@@ -24,29 +26,34 @@ export default defineAppConfig({
       }
     }
   },
+
   footer: {
     credits: `Copyright © ${new Date().getFullYear()}`,
     colorMode: false,
     links: [{
-      'icon': 'i-simple-icons-linkedin',
-      'to': 'https://www.linkedin.com/in/yurier-herrera-053880218/',
-      'target': '_blank',
+      icon: 'i-simple-icons-linkedin',
+      to: 'https://www.linkedin.com/in/yurier-herrera-053880218/',
+      target: '_blank',
       'aria-label': 'Sígueme en Linkedin'
     }, {
-      'icon': 'i-simple-icons-x',
-      'to': 'https://x.com/yurierherrera',
-      'target': '_blank',
+      icon: 'i-simple-icons-x',
+      to: 'https://x.com/yurierherrera',
+      target: '_blank',
       'aria-label': 'Sígueme en X'
     }, {
-      'icon': 'i-simple-icons-github',
-      'to': 'https://github.com/yurier98',
-      'target': '_blank',
+      icon: 'i-simple-icons-github',
+      to: 'https://github.com/yurier98',
+      target: '_blank',
       'aria-label': 'Sígueme en GitHub'
     }, {
-      'icon': 'i-simple-icons-discord',
-      'to': 'https://discord.com/invite/ps2h6QT',
-      'target': '_blank',
-      'aria-label': 'Sígueme en Discord'
+      icon: 'i-simple-icons-telegram',
+      to: 'https://t.me/yurierherrera',
+      target: '_blank',
+      'aria-label': 'Sígueme en Telegram'
     }]
+  },
+
+  seo: {
+    siteName: 'Yurier Herrera Portfolio'
   }
 })

@@ -1,13 +1,13 @@
 seo:
-  title: "Yurier Herrera - UX/UI Designer"
-  description: "Welcome to my portfolio! I'm Emma Thompson, a UX/UI designer and front-end developer based in Boston. I specialize in creating user-centered digital experiences that are both beautiful and functional."
-title: "Hola, soy Yurier Herrera. Transformo ideas en productos digitales."
-description: "Soy gerente y desarrollador de productos de software. Doy vida a las ideas creando experiencias de usuario excepcionales en el espacio digital."
+  title: Yurier Herrera - UX/UI Designer
+  description: Welcome to my portfolio! I'm Emma Thompson, a UX/UI designer and front-end developer based in Boston. I specialize in creating user-centered digital experiences that are both beautiful and functional.
+title: Hola, soy Yurier Herrera. Transformo ideas en productos digitales.
+description: Soy gerente y desarrollador de productos de software. Doy vida a las ideas creando experiencias de usuario excepcionales en el espacio digital.
 hero:
   links:
-    - label: "Use this template"
+    - label: Use this template
       to: https://github.com/nuxt-ui-pro/portfolio
-      color: "neutral"
+      color: neutral
   images:
     - src: https://picsum.photos/468/468?random=1
       alt: Random Image 1
@@ -28,59 +28,60 @@ hero:
     - src: https://picsum.photos/468/468?random=8
       alt: Random Image 8
 about:
-  title: "Acerca de mí"
+  title: Acerca de mí
   description: |
     As a UX/UI designer and front-end developer with 6 years of experience, I leverage my Boston University Interactive Design degree to craft user-centered digital experiences.
     My approach blends creative strategy with technical expertise, transforming concepts into functional, purposeful digital products that seamlessly integrate design and technology.
 experience:
   title: Experiencia laboral
   items:
-    - position: "Brand Designer at"
-      date: "2023 - Present"
+    - position: Brand Designer at
+      date: 2023 - Present
       company:
         name: Nuxt
-        logo: "i-simple-icons-nuxtdotjs"
-        url: "https://nuxt.com"
-        color: "#00DC82"
-    - position: "Assets Designer at"
-      date: "2022 - 2023"
+        logo: i-simple-icons-nuxtdotjs
+        url: https://nuxt.com
+        color: '#00DC82'
+    - position: Assets Designer at
+      date: 2022 - 2023
       company:
         name: Raycast
-        logo: "i-simple-icons-raycast"
-        url: "https://raycast.com"
-        color: "#FF6363"
-    - position: "Senior UX/UI Designer at"
-      date: "2020 - 2021"
+        logo: i-simple-icons-raycast
+        url: https://raycast.com
+        color: '#FF6363'
+    - position: Senior UX/UI Designer at
+      date: 2020 - 2021
       company:
         name: Linear
-        logo: "i-simple-icons-linear"
-        url: "https://linear.app"
-        color: "#5E6AD2"
+        logo: i-simple-icons-linear
+        url: https://linear.app
+        color: '#5E6AD2'
 testimonials:
-  - quote: "Emma's approach to UX design completely transformed our product. She has a rare ability to balance beautiful aesthetics with functional simplicity. The redesign not only looked better, but it reduced our customer support tickets by 40% and increased conversion rates across all key metrics."
+  - quote: Emma's approach to UX design completely transformed our product. She has a rare ability to balance beautiful aesthetics with functional simplicity. The redesign not only looked better, but it reduced our customer support tickets by 40% and increased conversion rates across all key metrics.
     author:
-      name: 'Sarah Chen'
-      description: 'Product Director at Bloom Finance'
+      name: Sarah Chen
+      description: Product Director at Bloom Finance
       avatar:
-        src: 'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
-        srcset: 'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
-  - quote: "Working with Emma was the best decision we made for our startup. She didn't just deliver designs—she challenged our assumptions, conducted thorough user research, and created an experience that truly resonated with our audience. Her technical knowledge of front-end development meant the handoff to our engineering team was seamless."
+        src: https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80
+        srcset: https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x
+  - quote: Working with Emma was the best decision we made for our startup. She didn't just deliver designs—she challenged our assumptions, conducted thorough user research, and created an experience that truly resonated with our audience. Her technical knowledge of front-end development meant the handoff to our engineering team was seamless.
     author:
-      name: 'Michael Rodriguez'
-      description: 'Co-founder of Wavelength Music'
+      name: Michael Rodriguez
+      description: Co-founder of Wavelength Music
       avatar:
-        src: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
-        srcset: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
-  - quote: "Yurier no solo fue un profesor excepcional en el campo de la ingeniería y gestión de proyectos, sino que ahora también es un líder inspirador en nuestro proyecto actual. Su capacidad para combinar teoría y práctica, junto con su enfoque meticuloso y su habilidad para guiar equipos, ha sido fundamental para el éxito de nuestro trabajo. Trabajar junto a Yurier ha sido una experiencia enriquecedora, donde he podido aplicar los conocimientos que él mismo me impartió en el aula. ¡Sin duda, un profesional que marca la diferencia!."
+        src: https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80
+        srcset: https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x
+  - quote: Yurier no solo fue un profesor excepcional en el campo de la ingeniería y gestión de proyectos, sino que ahora también es un líder inspirador en nuestro proyecto actual. Su capacidad para combinar teoría y práctica, junto con su enfoque meticuloso y su habilidad para guiar equipos, ha sido fundamental para el éxito de nuestro trabajo. Trabajar junto a Yurier ha sido una experiencia enriquecedora, donde he podido aplicar los conocimientos que él mismo me impartió en el aula. ¡Sin duda, un profesional que marca la diferencia!.
     author:
-      name: 'Software Engineer Guillermo Rodríguez'
-      description: 'Chief Innovation Officer at GreenTech Solutions'
+      name: Software Engineer Guillermo Rodríguez
+      description: Chief Innovation Officer at GreenTech Solutions
       avatar:
-        src: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
-        srcset: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
+        src: https://avatars.githubusercontent.com/u/93445026?v=4
+        srcset: https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x
+        alt: Software Engineer Guillermo Rodríguez
 blog:
-  title: "Últimos artículos"
-  description: "Algunos de mis pensamientos recientes"
+  title: Últimos artículos
+  description: Algunos de mis pensamientos recientes
 faq:
   title: Preguntas frecuentes
   description: Respuestas a preguntas comunes sobre mis procesos y servicios.
