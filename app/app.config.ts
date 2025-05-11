@@ -1,12 +1,12 @@
 export default defineAppConfig({
   global: {
     picture: {
-      dark: 'https://images.unsplash.com/photo-1701615004837-40d8573b6652?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-      light: 'https://images.unsplash.com/photo-1701615004837-40d8573b6652?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      dark: 'https://avatars.githubusercontent.com/u/75491019?v=4',
+      light: 'https://avatars.githubusercontent.com/u/75491019?v=4',
       alt: 'My profile picture'
     },
     meetingLink: 'https://cal.com/',
-    email: 'ui-pro@nuxt.com',
+    email: 'yurierjesus@gamil.com',
     available: true
   },
   ui: {
@@ -28,25 +28,25 @@ export default defineAppConfig({
     credits: `Copyright © ${new Date().getFullYear()}`,
     colorMode: false,
     links: [{
-      'icon': 'i-simple-icons-nuxtdotjs',
-      'to': 'https://nuxt.com',
+      'icon': 'i-simple-icons-linkedin',
+      'to': 'https://www.linkedin.com/in/yurier-herrera-053880218/',
       'target': '_blank',
-      'aria-label': 'Nuxt Website'
+      'aria-label': 'Sígueme en Linkedin'
+    }, {
+      'icon': 'i-simple-icons-x',
+      'to': 'https://x.com/yurierherrera',
+      'target': '_blank',
+      'aria-label': 'Sígueme en X'
+    }, {
+      'icon': 'i-simple-icons-github',
+      'to': 'https://github.com/yurier98',
+      'target': '_blank',
+      'aria-label': 'Sígueme en GitHub'
     }, {
       'icon': 'i-simple-icons-discord',
       'to': 'https://discord.com/invite/ps2h6QT',
       'target': '_blank',
-      'aria-label': 'Nuxt UI on Discord'
-    }, {
-      'icon': 'i-simple-icons-x',
-      'to': 'https://x.com/nuxt_js',
-      'target': '_blank',
-      'aria-label': 'Nuxt on X'
-    }, {
-      'icon': 'i-simple-icons-github',
-      'to': 'https://github.com/nuxt/ui',
-      'target': '_blank',
-      'aria-label': 'Nuxt UI on GitHub'
+      'aria-label': 'Sígueme en Discord'
     }]
   }
 })
